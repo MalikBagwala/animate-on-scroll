@@ -5,4 +5,5 @@
 </a>
 
 <hr>
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 <a href="https://test-2psvjk950.now.sh">View Live</a>
