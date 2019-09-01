@@ -5,5 +5,5 @@
 </a>
 
 <hr>
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-<a href="https://test-2psvjk950.now.sh">View Live</a>
+![Image of Yaktocat](https://github.com/MalikBagwala/animate-on-scroll/blob/master/img/demo.gif)
+<a href="https://test-2psvjk950.now.sh">[View Live](https://img.shields.io/badge/LIVE-view%20the%20demo%20of%20project-success?logo=google-chrome&logoColor=white)</a>
