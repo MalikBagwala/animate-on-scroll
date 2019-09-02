@@ -5,9 +5,9 @@
 </a>
 
 <hr>
-<a href="https://test-2psvjk950.now.sh">
+<a href="https://animate-on-scroll.mbagwala.now.sh">
 <img src="https://github.com/MalikBagwala/animate-on-scroll/blob/master/img/demo.gif" alt="Demo ScreenShot"/>
 </a>
-<a href="https://test-2psvjk950.now.sh">
+<a href="https://animate-on-scroll.mbagwala.now.sh">
   <img src="https://img.shields.io/badge/LIVE-view%20the%20demo%20of%20project-success?logo=google-chrome&logoColor=white" >
 </a>
